@@ -141,7 +141,6 @@ namespace _OLC1_Proyecto2_201602988.lang.definition
                         {
                             foreach(Instruccion i in ((Declaraciones)decl).declaraciones)
                             {
-
                                 if (i is Declaracion)
                                 {
                                     Declaracion d = (Declaracion)i;
