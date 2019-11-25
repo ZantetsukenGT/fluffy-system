@@ -42,7 +42,7 @@ namespace _OLC1_Proyecto2_201602988.app.tree
             AND,//short-circuit
             OR,//short-circuit
             XOR//
-        };
+        }
 
         public Object value;
         public Tipo tipo;
